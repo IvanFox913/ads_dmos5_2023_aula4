@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SuperBancoImobiliarioDMO</string>
+
+    <string name="btn_dot_string">.</string>
+    <string name="btn_zero_string">0</string>
+    <string name="btn_c_string">C</string>
+    <string name="btn_three_string">3</string>
+    <string name="btn_two_string">2</string>
+    <string name="btn_one_string">1</string>
+    <string name="btn_six_string">6</string>
+    <string name="btn_five_string">5</string>
+    <string name="btn_four_string">4</string>
+    <string name="btn_nine_string">9</string>
+    <string name="btn_eight_string">8</string>
+    <string name="btn_seven_string">7</string>
+    <string name="btn_M_string">M</string>
+    <string name="btn_arrow_string"><![CDATA[->]]></string>
+    <string name="btn_question_mark_string">\?</string>
+    <string name="btn_K_string">K</string>
+    <string name="desc_payment_order_string">Paga para:</string>
+
+    <string-array name="list_player_spinner">
+        <item>Banco</item>
+        <item>Jogador 1</item>
+        <item>Jogador 2</item>
+        <item>Jogador 3</item>
+        <item>Jogador 4</item>
+        <item>Jogador 5</item>
+        <item>Jogador 6</item>
+    </string-array>
+
+</resources>
